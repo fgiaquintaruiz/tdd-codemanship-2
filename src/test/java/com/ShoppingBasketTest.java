@@ -1,5 +1,5 @@
-import com.Item;
-import com.ShoppingBasket;
+package com;
+
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
